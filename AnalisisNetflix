@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Struktur Halaman Netflix</title>
+</head>
+<body>
+    <article>
+        <h1> LOGO NETFLIX</h1>
+        <select name="LanguageSelect" data-uia="language-picker-header" fdprocessedid="ohwmi9"><option selected="" lang="id" label="Bahasa Indonesia" value="id-ID">Bahasa Indonesia</option></select>
+        <button>Masuk</button>
+        <h1>Film, acara TV tak terbatas, dan banyak lagi</h1>
+        <p>Siap Menonton? Masukkan Email untuk membuat atau memulai lagi keanggotaanmu</p>
+        <input autocapitalize="Alamat Email"> 
+        <button role="button" type="submit" fdprocessedid="db2d9s">Mulai</button>
+        <h2>Nikmati di TV-mu</h2>
+        <p>Tonton di Smart TV, Playstation, Xbox, Chromecast,Apple TV, pemutar Blu-Ray, dan banyak lagi.</p>
+        <img src="pic1.png">
+        <h2>Download acara TV untuk menonton secara offline</h2>
+        <p>Simpan favoritmu dengan mudah agar selalu ada acara TV dan film yang bisa ditonton.</p>
+        <img src="pic2.jpg" >
+        <h2>Tonton di mana pun</h2>
+        <p>Streaming film dan acara TV tak terbatas di ponsel,tablet, laptop dan TV-mu</p>
+        <img src="pic3.png">
+        <h2>Buat profil untuk anak</h2>
+        <p>Kirim anak-anak untuk bertualang bersama karakter favorit mereka didunia yang dibuat khusus untuk mereka -- gratis dengan keanggotanmu.</p>
+        <img src="pic4.png">
+        <h2>Tanya Jawab Umum</h2>
+        <button> Apa itu Netflix?</button>
+        <button> Berapa biaya berlangganan Netflix?</button>
+        <button> Di mana saya bisa menonton?</button>
+        <button> Bagaimana cara membatalkannya? </button>
+        <button> Apa yang bisa ditonton di Netflix?</button>
+        <button> Apakah Netflix sesuai bagi anak-anak?</button>
+        <h3> Siap menonton? Masukkan email untuk membuat atau memulai lagi keanggotaanmu.</h3>
+        <select name="LanguageSelect" data-uia="language-picker-header" fdprocessedid="ohwmi9"><option selected="" lang="id" label="Bahasa Indonesia" value="id-ID">Bahasa Indonesia</option><option lang="en" label="English" value="en-ID">English</option></select>
+        <button>Masuk</button>
+        <div data-layout="item" class="default-ltr-cache-1a8ksre ew2l6qe0"><div class="default-ltr-cache-82qlwu eyieukx4">Ada pertanyaan? Hubungi <a href="tel:007-803-321-2148">007-803-321-2148</a></div></div>
+        <ul>Tanya Jawab </ul>
+        <ul>Akun</ul>
+        <ul>Hubungan Investor</ul>
+        <ul>Tukar Kartu Hadiah</ul>
+        <ul>Cara Menonton</ul>
+        <ul>Privasi</ul>
+        <ul>Informasi Perusahaan</ul>
+        <ul>Uji Kecepatan</ul>
+        <ul>Hanya di Netflix</ul>
+        <ul>Pusat Bantuan</ul>
+        <ul>Pusat Media</ul>
+        <ul>Lowongan Kerja</ul>
+        <ul>Beli Kartu Hadiah</ul>
+        <ul>Ketentuan Penggunaan</ul>
+        <ul>Preferensi Cookie</ul>
+        <ul>Hubungi Kami</ul>
+        <ul>Informasi Legal</ul>
+        <select name="LanguageSelect" data-uia="language-picker-header" fdprocessedid="ohwmi9"><option selected="" lang="id" label="Bahasa Indonesia" value="id-ID">Bahasa Indonesia</option><option lang="en" label="English" value="en-ID">English</option></select>
+        <ul>Netflix Indonesia</ul>
+    </article>
+</body>
+</html>
