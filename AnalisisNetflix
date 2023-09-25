@@ -6,7 +6,6 @@
     <title>Struktur Halaman Netflix</title>
 </head>
 <body>
-    <article>
         <h1> LOGO NETFLIX</h1>
         <select name="LanguageSelect" data-uia="language-picker-header" fdprocessedid="ohwmi9"><option selected="" lang="id" label="Bahasa Indonesia" value="id-ID">Bahasa Indonesia</option></select>
         <button>Masuk</button>
@@ -56,6 +55,5 @@
         <ul>Informasi Legal</ul>
         <select name="LanguageSelect" data-uia="language-picker-header" fdprocessedid="ohwmi9"><option selected="" lang="id" label="Bahasa Indonesia" value="id-ID">Bahasa Indonesia</option><option lang="en" label="English" value="en-ID">English</option></select>
         <ul>Netflix Indonesia</ul>
-    </article>
 </body>
 </html>
