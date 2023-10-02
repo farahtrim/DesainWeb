@@ -1,0 +1,180 @@
+/* Style.css */
+
+*{
+    box-sizing: border-box;
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: antiquewhite;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    position: relative;
+}
+
+h1 {
+    font-size: 36px;
+    color: #e50914;
+    margin-top: 20px;
+    position: relative;
+}
+
+button {
+    font-size: 16px;
+    padding: 10px 20px;
+    background-color: saddlebrown;
+    color: beige;
+    border: none;
+    cursor: pointer;
+    margin-top: 10px;
+    position: relative;
+}
+
+button:hover {
+    background-color: coral;
+}
+
+p {
+    font-size: 18px;
+    color: #555;
+    position: relative;
+}
+
+input {
+    font-size: 16px;
+    width: 40%;
+}
+
+img {
+    max-width: 50%;
+    height: auto;
+    margin: 20px 0;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+.select-wrapper select {
+    padding: 10px;
+    font-size: 16px;
+}
+
+.select-wrapper button {
+    margin-top: 10px;
+    /* Style.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: antiquewhite;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+h1 {
+    font-size: 36px;
+    color: #e50914;
+    margin-top: 20px;
+}
+
+button {
+    font-size: 16px;
+    padding: 10px 20px;
+    background-color: saddlebrown;
+    color: beige;
+    border: none;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+button:hover {
+    background-color: coral;
+}
+
+p {
+    font-size: 18px;
+    color: #555;
+}
+
+input {
+    font-size: 16px;
+    width: 40%;
+}
+
+img {
+    max-width: 50%;
+    height: auto;
+    margin: 20px 0;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+.select-wrapper select {
+    padding: 10px;
+    font-size: 16px;
+}
+
+.select-wrapper button {
+    margin-top: 10px;
+}
+
+
+@media (max-width: 768px) {
+    h1 {
+        font-size: 24px;
+    }
+    
+    button {
+        font-size: 14px;
+    }
+
+    p {
+        font-size: 20px;
+    }
+}
+
+}
+
+
+@media (max-width: 768px) {
+    h1 {
+        font-size: 24px;
+    }
+    
+    button {
+        font-size: 14px;
+    }
+
+    p {
+        font-size: 20px;
+    }
+}
+
+.judul
+{
+    background-color: darkkhaki;
+    box-sizing: border-box;
+    border-radius: 1rem;
+    width: fit-content;
+    
+}
+
+.penutup
+{
+    box-sizing: border-box;
+    background-color: chocolate;
+    border-radius: 0.5rem;
+    width: 800px;
+
+}
+
+.terakhir{
+    position: absolute;
+    background-color: darkgrey;
+    width: auto;
+}
