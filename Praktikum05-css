@@ -1,0 +1,72 @@
+/* Style.css */
+
+.logo{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.Container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #333;
+    padding: 15px 150px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+.logo img {
+    margin-right: 340px;
+}
+
+.logo button {
+    background-color: #e50914;
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    cursor: pointer;
+}
+
+.part1, .part2, .part3, .Part4, .Part5, .part6 {
+    text-align: center;
+    padding: 50px 0;
+}
+
+.part1 input, .part1 button {
+    padding: 10px;
+}
+
+.part1 button {
+    background-color: #e50914;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+h1, h2, h3 {
+    color: #333;
+}
+
+p {
+    color: #777;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
