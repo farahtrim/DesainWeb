@@ -1,0 +1,39 @@
+/* Formulir pendaftaran */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: aliceblue;
+    text-align: center;
+}
+
+form {
+    width: 500px;
+    margin: 400 px auto;
+    background-color: burlywood;
+    padding: 40px;
+    border-radius: 10px;
+    text-align: left;
+  }
+  
+  label {
+    display: inline-block;
+    width: 150px;
+    font-weight: bold;
+  }
+  
+  input {
+    width: 300px;
+    padding: 5px;
+    border: px solid #ccc;
+  }
+
+  button {
+    background-color: darkolivegreen;
+    color: white;
+    padding: 10px 30px;
+    border-radius: 10px;
+  }
+
+  .error {
+    color: red;
+  }
